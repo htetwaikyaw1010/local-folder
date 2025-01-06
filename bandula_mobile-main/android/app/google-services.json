@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "719041248773",
+    "project_id": "mobile-aaf0a",
+    "storage_bucket": "mobile-aaf0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719041248773:android:5fcef3e7cf7d2c4bbea66c",
+        "android_client_info": {
+          "package_name": "com.hapeye.bandula"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOFD4tAcbPmNj1pyJ96q69RvPEsmU0O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719041248773:android:ba96e1d95e244bfcbea66c",
+        "android_client_info": {
+          "package_name": "com.hapeyecoltd.three_sixty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOFD4tAcbPmNj1pyJ96q69RvPEsmU0O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719041248773:android:b7cb058ec1aa169bbea66c",
+        "android_client_info": {
+          "package_name": "com.hapeyecoltd.threesixty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOFD4tAcbPmNj1pyJ96q69RvPEsmU0O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
